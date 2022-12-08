@@ -137,6 +137,6 @@ fun LoadingItem() {
 @Composable()
 fun UserPreview() {
     Paging3JetpackComposeTheme {
-        UserCard(user = User("Non", "1", "Jaila", "null", "Mr."))
+        UserCard(user = User("Dev", "1", "Test", "null", "Mr."))
     }
 }
